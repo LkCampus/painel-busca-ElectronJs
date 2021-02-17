@@ -1,0 +1,16 @@
+body{
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+#bloco{
+    background-color: rgb(229, 242, 248);
+}
+
+#quantidade{
+    height: 38px;
+    width: 120px;
+}
+
+.form-group{
+    padding: 5px;
+}
